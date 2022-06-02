@@ -3,7 +3,7 @@
 ### Something about me:
 
 - 😄 I am **Nguyen Cong Nhat Thien**
-- 🔭 I’m currently **an student at university**
+- 🔭 I’m currently **a student at university**
 - 🌱 I’m currently learning **front-end web**
 - ⚡ Fun fact: actually I'm timid more than my appearance 🤣
 
