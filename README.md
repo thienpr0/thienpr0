@@ -3,7 +3,7 @@
 ### Something about me:
 
 - I am developer **Nguyen Cong Nhat Thien**
-- I am a "big fan of VSCode"
+- I am a "big fan of VSCode" (Neovim)
 - I am a front-end developer (but still loving other programming things)
 
 ### Some technologies that I used:
