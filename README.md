@@ -11,4 +11,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncnthien&layout=compact&langs_count=20" />
 
-Please feel free to contact me, you can find my information in [my portfolio](https://ncnthien.vercel.app/)
+Please feel free to contact me, you can find my information in [my portfolio](https://ncnthien.vercel.app/) (WIP)
